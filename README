@@ -1,0 +1,19 @@
+PirateLog ist für die Erstellung schöner PDF-Protokolle von Pirat-Telkos.
+
+Es besteht im wesentlichen aus 2 Teilen:
+
+1. Einer Latex-Protokoll-Klasse
+   
+   Sie definiert eine Umgebung und einige Befehle zur Erzeugung der Protokolle.
+   Ein kleines Beispieldokument zeigt die wesentlichen Features
+
+2. Einem Python-Skript 
+
+   Mit diesem Skript soll die Wiki-Syntax eines Protokolls möglichst automatisiert
+   in ein Latex-Dokument umgewandelt werden
+
+
+Lizenz:
+   CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
+   Die Bilder und Icons sind dem Wiki entnommen und wurden dort als public domain verö�ffentlicht
+
