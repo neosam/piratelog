@@ -2,7 +2,7 @@
 Protokoll der Sitzung des Niederbayerischen Bezirksvorstandes vom 22.01.2013
 = Teilnehmer =
 
-'''BzV Niederbayern Vorstand:'''
+'''BzV Niederbayern Vorstand:''' <!-- participants -->
 * [[Benutzer:permeabel|Christian "BimBimBimBIm ;-)" Reidel]]
 * [[Benutzer:Flusspiratin|Heide-Marie Weiherer]]
 * [[Benutzer:Bayerwaldpirat|Otto Pittner]] verhindert!
@@ -26,7 +26,7 @@ Protokoll der Sitzung des Niederbayerischen Bezirksvorstandes vom 22.01.2013
 
 Hinweis auf die Aufzeichnung
 
-== TOP 1 Tätigkeitsberichte aus dem Vorstand==
+== TOP 1 Tätigkeitsberichte aus dem Vorstand== <!-- activity-report -->
 
 ===1. Vorstand (Bim):===
 * 16.&17.1. Mitläufersuche
@@ -65,7 +65,7 @@ für heute entschuldigt
 * 18.01.13 Vorbereitung auf KV Gründung und AV Bdt am Sonntag, Abklärung offener Fragen mit Spinni, Vorbereitung von Formularen, Satzungen, TO´s, GO´s,usw.
 * 20.01.13 Akkreditierung für KV Gründung Bayerwaldpiraten, Akkreditierung für AV zur Btw-Direktkanditaten Straubing/Regen, Organisation und Anfertigung sowie Zusammenstellung aller nötigen Formulare zum weiterleiten an die zuständigen Stellen.
 
-===Fragen an den Vorstand===
+===Fragen an den Vorstand=== <!-- default -->
 * Welche Unterschriftten fehlen fuer den Bankzugang
 ** Bim:  Die erstmals eingereichten Unterlagen sind bei der Bank verloren gegangen.  Die Unterlagen sind unterwegs.
 ** Walter muss noch unterschreiben, wird das Formular zurückschicken und schließlich von der Bank die Karte erhalten.
@@ -114,7 +114,7 @@ Wegen dem Zwischendurch der Vorstandssitzung hat seit der letzten Sitzung kein S
 ==== Stammtisch Vilsbiburg ===
 Findet zur Zeit nicht statt.
 
-=== Beauftragte ==
+=== Beauftragte == <!-- activity-report -->
 
 ==== Homepage ====
 * Anlegen von drei Autoren auf der Niederbayernhomepage am 17.01.2013 (niederbayern,hp)
@@ -124,7 +124,7 @@ Findet zur Zeit nicht statt.
 ** Peda und Matthias haben schon eine Vorlage gebastelt, der Punkt fällt also weg
 * Ich muss noch den Hinweis zur Aufzeichnung ins Wiki und HP einpflegen
 
-== TOP 3 ==
+== TOP 3 == <!-- default -->
 Orga AVs
 
 Der Vorstand und Heiko hat sich gestern in Straubing zur Vorbereitung getroffen.
