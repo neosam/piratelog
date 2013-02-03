@@ -1,6 +1,6 @@
 {{Protokoll}}
 Protokoll der Sitzung des Niederbayerischen Bezirksvorstandes vom 22.01.2013
-= Teilnehmer =
+= Teilnehmer = <!-- begin 22.01.2013 -->
 
 '''BzV Niederbayern Vorstand:''' <!-- participants -->
 * [[Benutzer:permeabel|Christian "BimBimBimBIm ;-)" Reidel]]
@@ -610,6 +610,7 @@ keine
 * Datum: 12.02.2013
 * Uhrzeit: 19:30 Uhr 
 * Ort: Mumble Raum Niederbayern
+<!-- end -->
 
 [[Kategorie:Bezirksverband Niederbayern]]
 [[Kategorie:Bezirksverband Niederbayern Vorstandssitzung 2013]]
