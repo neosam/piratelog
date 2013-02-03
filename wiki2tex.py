@@ -38,7 +38,7 @@ parserSwitches = {
 	# switch to activityReport mode
 	'switchToActivityReportPattern': re.compile(r"<!--\s*activity-report\s*-->"),
 	# check for the beginning tag
-	'beginning': re.compile(r"<!--\s*begin\s+(\d{2}\.\d{2}\.\d{4}))\s*-->"),
+	'beginning': re.compile(r"<!--\s*begin\s+(\d{2}\.\d{2}\.\d{4})\s*-->"),
 	# check for the end tag
 	'end': re.compile(r"<!--\s*end\s*-->")
 }
